@@ -1,0 +1,14 @@
+tap "railwaycat/emacsmacport"
+
+brew "dockutil"
+brew "fd"
+brew "git"
+brew "mas"
+brew "ripgrep"
+brew "tig"
+brew "tmux"
+
+cask "1password"
+cask "alacritty"
+cask "emacs-mac"
+cask "firefox"

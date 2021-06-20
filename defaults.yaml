@@ -1,0 +1,8 @@
+com.apple.SoftwareUpdate:
+  # System Preferences > Software Update > Advanced... > Automatically check
+  # for updates.
+  AutomaticCheckEnabled: true
+
+  # System Preferences > Software Update > Advanced... > Download new updates
+  # when available.
+  AutomaticDownload: true
