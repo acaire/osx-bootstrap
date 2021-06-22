@@ -1,1 +1,4 @@
+tap "homebrew/cask"
+
 cask "slack"
+cask "visual-studio-code"
